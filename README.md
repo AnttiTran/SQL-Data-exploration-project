@@ -14,7 +14,7 @@ All analysis was performed using Microsoft SQL Server.
   Contains vaccination-related metrics such as new vaccinations per day.
 
 
-## 🔍 Queries and Transformations Performed
+##  Queries and Transformations Performed
 
 ###  Initial Filtering
 - Removed entries with null `continent` values to focus on country-level data.
